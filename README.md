@@ -11,7 +11,7 @@ The latest version is [5.2](https://github.com/MoveOnOrg/Spoke/tree/v5.2) (see [
 
 ## Deploy to Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/MoveOnOrg/Spoke/tree/v5.2">
+<a href="https://heroku.com/deploy?template=https://github.com/MoveOnOrg/Spoke/tree/heroku-button-paid">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
