@@ -164,5 +164,15 @@
       "value": "/spoke/build/server/migrations/"
     }
   },
-  "addons": ["heroku-postgresql:standard", "mailgun:starter", "bucketeer:micro"]
+  "addons": [
+    "heroku-postgresql:standard-2",
+    "mailgun:starter",
+    "bucketeer:micro"
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "performance-m"
+    }
+  }
 }
